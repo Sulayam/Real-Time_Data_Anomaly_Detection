@@ -148,10 +148,18 @@ The system flow can be summarized in the following steps:
 
 Below are screenshots of the Dash application showcasing the real-time visualization of energy data and detected anomalies:
 
-- **Gas Plant Operations**
-- **Wind Farm Operations**
-- **Solar Farm Operations**
-- **Hydroelectric Plant Operations**
+### Gas Plant Operations
+<img width="1064" alt="image" src="https://github.com/user-attachments/assets/661c1931-be6a-4ee8-b30f-91beb5746e1a">
+
+### Wind Farm Operations
+<img width="1097" alt="image" src="https://github.com/user-attachments/assets/f1cfc8ba-f3e0-45cc-b83d-87f0e09adfbb">
+
+### Solar Farm Operations
+<img width="1095" alt="image" src="https://github.com/user-attachments/assets/510315dc-c0d0-4c78-8a4f-4c3b5db557d0">
+
+### Hydroelectric Plant Operations
+<img width="833" alt="image" src="https://github.com/user-attachments/assets/c32c5196-b91d-4678-84f3-e5cb68ad6bec">
+
 
 ## Monitoring the Spark Application
 You can monitor the Spark application using the Spark Master web UI:
