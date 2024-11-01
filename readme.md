@@ -54,7 +54,7 @@ The system architecture includes the following components:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/energy-anomaly-detection.git
+git clone https://github.com/sulayam/energy-anomaly-detection.git
 cd energy-anomaly-detection
 ```
 
