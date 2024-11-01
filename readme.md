@@ -21,8 +21,7 @@ This project implements a real-time energy data pipeline that simulates data fro
 9. [Kafka CLI Commands](#kafka-cli-commands)
 10. [Monitoring the Spark Application](#monitoring-the-spark-application)
 11. [Stopping and Cleaning Up](#stopping-and-cleaning-up)
-12. [Troubleshooting](#troubleshooting)
-13. [Why Use Isolation Forest for Anomaly Detection](#why-use-isolation-forest-for-anomaly-detection)
+12. [Why Use Isolation Forest for Anomaly Detection](#why-use-isolation-forest-for-anomaly-detection)
 
 ---
 
