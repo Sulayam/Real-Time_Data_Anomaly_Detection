@@ -23,7 +23,6 @@ This project implements a real-time energy data pipeline that simulates data fro
 11. [Stopping and Cleaning Up](#stopping-and-cleaning-up)
 12. [Troubleshooting](#troubleshooting)
 13. [Why Use Isolation Forest for Anomaly Detection](#why-use-isolation-forest-for-anomaly-detection)
-14. [Acknowledgments](#acknowledgments)
 
 ---
 
